@@ -1,5 +1,7 @@
 // var score = 5
 
+// viết 1 hàm đánh giá học lực dựa theo điểm số
+
 function grade(score){
     var result = "";
   if(score <= 5){
